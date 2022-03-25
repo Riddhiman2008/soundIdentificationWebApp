@@ -1,0 +1,29 @@
+body{     
+background:rebeccapurple ;
+font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+.header_div{
+background:darkred;
+color:cornsilk;
+}
+.header_div p{
+    color: cornsilk;
+    font-size: 15px;
+}
+.main_div button{
+    margin-top: 30px;
+    width:130px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.copy_right_footer{
+position:fixed;
+width:100%;
+font-size: 30px;
+line-height: 3;
+text-align: center;
+background-color: firebrick;
+color:cornsilk;
+bottom:0;
+text-shadow: 8px 8px 8px rgb(170, 27, 27);
+
+}
